@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains the class MyInt
+Contain the class MyInt
 """
 
 
