@@ -1,3 +1,3 @@
 #!/bin/bash
-# show body
-curl -Ls $1
+# sends GET req to URL and display response body
+curl -sfL "$1" -X GET
