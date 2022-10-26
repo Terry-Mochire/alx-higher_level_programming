@@ -1,5 +1,5 @@
 function changecolor () {
   const header = document.querySelector('header');
-  header.style.backgroundColor = '#FF0000';
+  header.style.color = '#FF0000';
 }
 changecolor();
